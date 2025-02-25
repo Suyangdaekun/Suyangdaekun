@@ -2,33 +2,31 @@
 <img src="SuyangApp/app/src/main/res/drawable/logo_sodamyeon.png" alt="Project Logo" style="width:200px; height:auto;"/>
 
 ## 📖 Overview
-Sodamyeon is a senior dating app that combines traditional wisdom with modern technology. The app leverages face reading (physiognomy) and astrology-based matching algorithms to help users find meaningful connections. Built using Mediapipe for facial analysis, Flask for backend services, Socket for real-time communication, and Firebase for data management, sodamyeon provides a seamless and engaging user experience tailored for seniors.
+Sodamyeon is a senior dating app that combines traditional wisdom with modern technology.</br>
+The app leverages face reading (physiognomy) and astrology-based matching algorithms to help users find meaningful connections.</br>
+Built using Mediapipe for facial analysis, Flask for backend services, Socket for real-time communication, and Firebase for data management, sodamyeon provides a seamless and engaging user experience tailored for seniors.
 
 ## ✨ Key Features
 Face Reading Analysis :
-Analyzes facial features using Mediapipe to provide personality insights.
+- Analyzes facial features using Mediapipe to provide personality insights.
 Astrology-Based Matching :
-Matches users based on their zodiac signs and astrological compatibility.
+- Matches users based on their zodiac signs and astrological compatibility.
 Real-Time Chat :
-Enables instant messaging between matched users via Socket.
+- Enables instant messaging between matched users via Socket.
 User Profiles :
-Stores and manages user data securely using Firebase.
+- Stores and manages user data securely using Firebase.
 Senior-Friendly UI :
-Simple and intuitive interface designed for older adults.
+- Simple and intuitive interface designed for older adults.
 
 ## 🛠 Tech Stack
-Backend
-Flask, Socket.IO
-Frontend
-Android (Java/Kotlin)
-Facial Analysis
-Mediapipe
-Real-Time Communication
-Socket.IO
-Database & Authentication
-Firebase Firestore, Firebase Authentication
-Notifications
-Firebase Cloud Messaging (FCM)
+| Category | Technologies |
+|----------|--------------|
+| Backend | Flask, Socket.IO |
+| Frontend | Android (Java/Kotlin) |
+| Facial Analysis | Mediapipe |
+| Real-Time Communication | Socket.IO |
+| Database & Authentication | Firebase Firestore, Firebase Authentication |
+| Notifications | Firebase Cloud Messaging (FCM) |
 
 ## 🚀 Getting Started
 Prerequisites
@@ -91,16 +89,14 @@ MIT License
 The use of Mediapipe and astrology algorithms may have additional licensing terms.
 
 ## 🤝 Team
-Team Name: HarmonyTech
-
-Project Lead
-Jane Doe
-Backend Developer
-John Smith
-Frontend Developer
-Emily Chen
-UI/UX Designer
-Michael Lee
+Team Name: Suyang
+| Role | Name |
+|----------|--------------|
+| Project Lead | Yang Dong Hoon |
+| Backend Developer | Shin Dong Chan |
+| Frontend Developer | Moon Ee Hwan |
+| UI/UX Designer | Ryu Yang Hwan |
+| Face landmarks modeling | Su Hyok Yun |
 
 ## 📬 Contact
 For inquiries, please contact:
