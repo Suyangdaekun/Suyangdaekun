@@ -9,12 +9,22 @@ Built using Mediapipe for facial analysis, Flask for backend services, Socket fo
 ## ✨ Key Features
 Face Reading Analysis :
 - Analyzes facial features using Mediapipe to provide personality insights.
+- Facial landmark analysis (Mediapipe, dlib, FAN)
+- Physiognomy analysis algorithm
+- Facial ratio measurement
+  
 Astrology-Based Matching :
 - Matches users based on their zodiac signs and astrological compatibility.
+- Birthdate-based astrology analysis
+- Zodiac matching algorithm
+- Compatibility analysis system
+  
 Real-Time Chat :
 - Enables instant messaging between matched users via Socket.
+
 User Profiles :
 - Stores and manages user data securely using Firebase.
+
 Senior-Friendly UI :
 - Simple and intuitive interface designed for older adults.
 
@@ -22,11 +32,12 @@ Senior-Friendly UI :
 | Category | Technologies |
 |----------|--------------|
 | Backend | Flask, Socket.IO |
-| Frontend | Android (Java/Kotlin) |
-| Facial Analysis | Mediapipe |
-| Real-Time Communication | Socket.IO |
+| Frontend | Android (Kotlin) | 
+| Facial Analysis | Mediapipe, dlib, FAN |
+| Real-Time Communication | Socket.IO, Firebase Realtime Database |
 | Database & Authentication | Firebase Firestore, Firebase Authentication |
 | Notifications | Firebase Cloud Messaging (FCM) |
+| Image Processing | OpenCV, NumPy |
 
 ## 🚀 Getting Started
 Prerequisites
@@ -38,6 +49,11 @@ Prerequisites
 Clone the repository:
 ```bash
 git clone https://github.com/Suyangdaekun/sodamyeon.git
+```
+Backend Server execution:
+```bash
+cd backend
+python app.py
 ```
 Configure Firebase:
 - Create a Firebase project and download the google-services.json file.
@@ -80,7 +96,16 @@ Chat :
 
 ## 📄 License
 MIT License
-The use of Mediapipe and astrology algorithms may have additional licensing terms.
+
+Licenses of used external libraries:
+- Mediapipe: Apache 2.0
+- Firebase: Google APIs Terms of Service
+- OpenCV: BSD 3-Clause
+
+## 🔒 Security Considerations
+- Firebase security rules setup
+- User data encryption
+- API authentication methods
 
 ## 🤝 Team
 Team Name: Suyang
