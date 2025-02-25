@@ -48,7 +48,7 @@ Prerequisites
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Suyangdaekun/sodamyeon.git
+git clone https://github.com/Suyangdaekun/Sodamyeon.git
 ```
 Backend Server execution:
 ```bash
