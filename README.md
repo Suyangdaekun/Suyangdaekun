@@ -37,13 +37,7 @@ Prerequisites
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sodamyeon-DatingApp.git
-```
-Set up the Flask backend:
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
+git clone https://github.com/Suyangdaekun/sodamyeon.git
 ```
 Configure Firebase:
 - Create a Firebase project and download the google-services.json file.
