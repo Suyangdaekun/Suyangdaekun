@@ -111,10 +111,10 @@ Licenses of used external libraries:
 Team Name: Suyang
 | Role | Name |
 |----------|--------------|
-| Project Leader | Yang Dong Hoon |
-| Backend Developer | Ryu Yang Hwan |
-| Frontend Developer | Moon Ee Hwan |
-| UI/UX Designer | Shin Dong Chan |
+| Project Leader | Dong Hoon Yang |
+| Backend Developer | Yang Hwan Ryu |
+| Frontend Developer | Ee Hwan Moon |
+| UI/UX Designer | Dong Chan Shin |
 | Face landmarks modeling | Su Hyok Yun |
 
 ## 📬 Contact
