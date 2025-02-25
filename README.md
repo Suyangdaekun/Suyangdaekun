@@ -100,4 +100,4 @@ Team Name: Suyang
 
 ## 📬 Contact
 For inquiries, please contact:
-email: sodamyeon.app@gmail.com
+wintrover@gmail.com
