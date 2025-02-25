@@ -93,9 +93,9 @@ Team Name: Suyang
 | Role | Name |
 |----------|--------------|
 | Project Lead | Yang Dong Hoon |
-| Backend Developer | Shin Dong Chan |
+| Backend Developer | Ryu Yang Hwan |
 | Frontend Developer | Moon Ee Hwan |
-| UI/UX Designer | Ryu Yang Hwan |
+| UI/UX Designer | Shin Dong Chan |
 | Face landmarks modeling | Su Hyok Yun |
 
 ## 📬 Contact
