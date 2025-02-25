@@ -1,4 +1,4 @@
-# Suyang - Senior Dating App with Face Reading & Astrology-Based Matching
+# Sodamyeon - Senior Dating App with Face Reading & Astrology-Based Matching
 <img src="SuyangApp/app/src/main/res/drawable/logo_sodamyeon.png" alt="Project Logo" style="width:200px; height:auto;"/>
 
 ## 📖 Overview
