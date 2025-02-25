@@ -1,5 +1,6 @@
-## Suyang - Senior Dating App with Face Reading & Astrology-Based Matching
+# Suyang - Senior Dating App with Face Reading & Astrology-Based Matching
 <img src="app/src/main/res/drawable/logo.png" alt="Project Logo" style="width:200px; height:auto;"/>
+
 ## 📖 Overview
 Suyang is a senior dating app that combines traditional wisdom with modern technology. The app leverages face reading (physiognomy) and astrology-based matching algorithms to help users find meaningful connections. Built using Mediapipe for facial analysis, Flask for backend services, Socket for real-time communication, and Firebase for data management, Suyang provides a seamless and engaging user experience tailored for seniors.
 
