@@ -86,7 +86,7 @@ The use of Mediapipe and astrology algorithms may have additional licensing term
 Team Name: Suyang
 | Role | Name |
 |----------|--------------|
-| Project Lead | Yang Dong Hoon |
+| Project Leader | Yang Dong Hoon |
 | Backend Developer | Ryu Yang Hwan |
 | Frontend Developer | Moon Ee Hwan |
 | UI/UX Designer | Shin Dong Chan |
